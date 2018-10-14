@@ -5,6 +5,7 @@ public class run1 {
 		// TODO Auto-generated method stub
 		System.out.println("hi");
 		//default code
+		//second code
 
 	}
 
